@@ -8,13 +8,17 @@ I’m thrilled by AI’s potential to revolutionize coding and financial systems
 🚀 What I’m Working On
 
 🔧 Building: A cloud-based microfinance platform tailored for East African MFIs, integrating AI to streamline lending, compliance, and customer engagement.
+
 🧠 Tech Stack Focus: Microservices architecture, AI/ML integration, multi-tenant platforms, and interoperability with systems like NIDA, BRELA, TRA, and TIPS.
+
 🤝 Goal: Create a scalable, smart marketplace to empower a thriving MFI ecosystem.
 
 💡 About Me
 
 Background: 10+ years in microfinance and financial inclusion, now diving into tech to solve real-world problems.
+
 Vibe-Coding Journey: No formal coding experience, but I’m passionate about learning and using AI tools to build solutions. If I can explain my ideas to my 11-year-old son and he gets it, I know I’m on the right track!
+
 Fun Fact: I love breaking down complex problems into simple solutions, often testing them through conversations with my son.
 
 📫 Let’s Connect
